@@ -1,0 +1,14 @@
+C:\Users\foram\Desktop\CSharp-Practical-Learning\01-StudentManagementSystem\bin\Debug\net9.0\01-StudentManagementSystem.exe
+C:\Users\foram\Desktop\CSharp-Practical-Learning\01-StudentManagementSystem\bin\Debug\net9.0\01-StudentManagementSystem.deps.json
+C:\Users\foram\Desktop\CSharp-Practical-Learning\01-StudentManagementSystem\bin\Debug\net9.0\01-StudentManagementSystem.runtimeconfig.json
+C:\Users\foram\Desktop\CSharp-Practical-Learning\01-StudentManagementSystem\bin\Debug\net9.0\01-StudentManagementSystem.dll
+C:\Users\foram\Desktop\CSharp-Practical-Learning\01-StudentManagementSystem\bin\Debug\net9.0\01-StudentManagementSystem.pdb
+C:\Users\foram\Desktop\CSharp-Practical-Learning\01-StudentManagementSystem\obj\Debug\net9.0\01-StudentManagementSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\foram\Desktop\CSharp-Practical-Learning\01-StudentManagementSystem\obj\Debug\net9.0\01-StudentManagementSystem.AssemblyInfoInputs.cache
+C:\Users\foram\Desktop\CSharp-Practical-Learning\01-StudentManagementSystem\obj\Debug\net9.0\01-StudentManagementSystem.AssemblyInfo.cs
+C:\Users\foram\Desktop\CSharp-Practical-Learning\01-StudentManagementSystem\obj\Debug\net9.0\01-StudentManagementSystem.csproj.CoreCompileInputs.cache
+C:\Users\foram\Desktop\CSharp-Practical-Learning\01-StudentManagementSystem\obj\Debug\net9.0\01-StudentManagementSystem.dll
+C:\Users\foram\Desktop\CSharp-Practical-Learning\01-StudentManagementSystem\obj\Debug\net9.0\refint\01-StudentManagementSystem.dll
+C:\Users\foram\Desktop\CSharp-Practical-Learning\01-StudentManagementSystem\obj\Debug\net9.0\01-StudentManagementSystem.pdb
+C:\Users\foram\Desktop\CSharp-Practical-Learning\01-StudentManagementSystem\obj\Debug\net9.0\01-StudentManagementSystem.genruntimeconfig.cache
+C:\Users\foram\Desktop\CSharp-Practical-Learning\01-StudentManagementSystem\obj\Debug\net9.0\ref\01-StudentManagementSystem.dll
