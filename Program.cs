@@ -85,7 +85,8 @@ while (running)
     }
     catch (FormatException)
     {
-        Console.WriteLine("Please Enter Valid Number");
+        Console.WriteLine("Please Enter Valid Number.............");
+        Console.WriteLine("Validation Feature Added");
     }
     catch (Exception ex)
     {
